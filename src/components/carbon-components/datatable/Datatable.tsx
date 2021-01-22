@@ -173,7 +173,7 @@ class RLJEDataTable extends Component<any, any> {
       },
       {
         key: 'sunsetDate',
-        header: 'sunsetDate',
+        header: 'Sunset Date',
       },
     ];
 
